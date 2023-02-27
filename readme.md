@@ -6,4 +6,4 @@ This doesn't take much time or effort for the one who is familiar wtih flexbox a
 - Later on it is deployed using netlify
 
 Here's the deployed link
-[Deployed Link]()
+[Deployed Link](https://sdeservices.netlify.app/)
